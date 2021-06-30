@@ -1,2 +1,6 @@
 # Jean_Portfolio
-Data science portfolio
+
+## Data analysis and visualization:
+1. GDP_vaccination
+2. 
+
