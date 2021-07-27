@@ -71,7 +71,7 @@ cohen_kappa_score(y_test, pred_clf, labels=None, weights= 'quadratic')
 ```
 A perfect QWK score of 1.0 is granted when both the predictions and actuals are the same. Whereas, the least possible score is -1 which is given when the predictions are furthest away from actuals. The aim is to get as close to 1 as possible. This model shows a general QWK score of 0.667 which indicates high aggreement between the predicted and test score.
 
-## 3. [016 US Election (Obama vs Trump)](https://github.com/Jean-HOW/Python_project/tree/main/us_election)
+## 3. [2016 US Election (Obama vs Trump)](https://github.com/Jean-HOW/Python_project/tree/main/us_election)
 The dataset is compressed file that contains Facebook posts from 15 of the top mainstream media sources (e.g., BBC, CNN, Fox News, etc.) from 2012 to 2016.
 
 
